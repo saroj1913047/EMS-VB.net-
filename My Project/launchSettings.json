@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BooksManagementSystem": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\sharm\\source\\repos\\Books Management System\\bin\\Debug\\net6.0-windows\\Books Management System.exe"
+    }
+  }
+}

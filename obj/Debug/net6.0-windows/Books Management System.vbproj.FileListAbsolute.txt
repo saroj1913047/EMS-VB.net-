@@ -1,0 +1,51 @@
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\Books Management System.exe
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\Books Management System.deps.json
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\Books Management System.runtimeconfig.json
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\Books Management System.dll
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\ref\Books Management System.dll
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\Books Management System.pdb
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\sharm\source\repos\Login\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\Books_Management_System.Form1.resources
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\Books Management System.vbproj.GenerateResource.cache
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\Books Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\Books Management System.AssemblyInfoInputs.cache
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\Books Management System.AssemblyInfo.vb
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\Books Management System.vbproj.CoreCompileInputs.cache
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\Books Management System.vbproj.CopyComplete
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\Books Management System.dll
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\ref\Books Management System.dll
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\Books Management System.pdb
+C:\Users\sharm\source\repos\Login\obj\Debug\net6.0-windows\Books Management System.genruntimeconfig.cache
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\Books Management System.exe
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\Books Management System.deps.json
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\Books Management System.runtimeconfig.json
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\Books Management System.dll
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\ref\Books Management System.dll
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\Books Management System.pdb
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\sharm\source\repos\Books Management System\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books Management System.vbproj.AssemblyReference.cache
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books_Management_System.Form1.resources
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books Management System.vbproj.GenerateResource.cache
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books Management System.AssemblyInfoInputs.cache
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books Management System.AssemblyInfo.vb
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books Management System.vbproj.CoreCompileInputs.cache
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books Management System.vbproj.CopyComplete
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books Management System.dll
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\ref\Books Management System.dll
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books Management System.pdb
+C:\Users\sharm\source\repos\Books Management System\obj\Debug\net6.0-windows\Books Management System.genruntimeconfig.cache
