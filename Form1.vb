@@ -1,6 +1,4 @@
 ﻿Imports MySql.Data.MySqlClient
-Imports Microsoft.VisualBasic.ApplicationServices
-Imports Microsoft.Win32
 
 Public Class Form1
 
@@ -8,7 +6,6 @@ Public Class Form1
     Dim sqlCommand As New MySqlCommand
     Dim sqlRead As MySqlDataReader
     Dim sqlDataTable As New DataTable
-    Dim data As New MySqlDataAdapter
 
     Dim sqlQuerry As String
     Dim server As String = "localhost"
@@ -17,9 +14,6 @@ Public Class Form1
     Dim database As String = "visual_basic"
 
     Dim id As Integer
-
-    Private bitmap As Bitmap
-
     Private Sub updateTable()
         sqlConn.ConnectionString = "server=" + server + ";" + "user id=" + username + ";" + "password=" + password + ";" + "database=" + database
         sqlConn.Open()
