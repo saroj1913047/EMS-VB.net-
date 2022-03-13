@@ -14,7 +14,8 @@ Public Class Form1
     Dim database As String = "visual_basic"
 
     Dim id As Integer
-    Private Sub updateTable()
+
+    Private Sub updateTable() 'Load the result from the querry into DataGridView named as DataTable
         sqlConn.ConnectionString = "server=" + server + ";" + "user id=" + username + ";" + "password=" + password + ";" + "database=" + database
         sqlConn.Open()
         sqlCommand.Connection = sqlConn
@@ -25,12 +26,9 @@ Public Class Form1
         sqlConn.Close()
         DataTable.DataSource = sqlDataTable
     End Sub
+
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         updateTable()
-    End Sub
-
-    Private Sub Panel3_Paint(sender As Object, e As PaintEventArgs)
-
     End Sub
 
     Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
@@ -40,8 +38,6 @@ Public Class Form1
             Application.Exit()
         End If
     End Sub
-
-
 
     Private Sub DataTable_CellClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataTable.CellClick
         Try
@@ -103,10 +99,6 @@ Public Class Form1
             DataTable.Rows.Remove(row)
         Next
         updateTable()
-    End Sub
-
-    Private Sub btnPrint_Click(sender As Object, e As EventArgs)
-
     End Sub
 
     Private Sub TextSearch_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextSearch.KeyPress
